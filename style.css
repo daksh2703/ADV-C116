@@ -1,0 +1,12 @@
+body{
+    background-image:url("background.jpg");
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+h1{
+    font-size:40px;
+    background-color: darkgreen;
+    color:azure;
+    width:20%;
+    height:50px;
+    border-radius:10px;
+}
